@@ -1,4 +1,4 @@
-package com.jkaminski.dev.cleannotepadapp
+package com.jkaminski.dev.cleannotepadapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
